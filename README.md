@@ -18,5 +18,5 @@ This project is a backend implementation of JWT (JSON Web Token) based authentic
 - Spring Security
 - Spring Data JPA
 - JWT (jjwt)
-- H2 Database (for testing)
+- MySQL
 - Maven
